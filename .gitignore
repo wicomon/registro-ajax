@@ -1,0 +1,7 @@
+variables.env
+node_modules/
+vendor/
+admin/Classes
+admin/Nueva carpeta
+images/
+includes/
